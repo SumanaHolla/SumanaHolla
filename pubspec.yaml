@@ -49,6 +49,7 @@ dev_dependencies:
   flutter_inappwebview: ^5.8.0
   flutter_launcher_icons: ^0.13.1
   flutter_spinkit: ^5.2.1
+  circular_menu: ^4.0.0
 
 flutter_launcher_icons:
   android: "launcher_icon"
